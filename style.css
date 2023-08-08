@@ -1,0 +1,20 @@
+
+h1{
+    padding: 50 px;
+    margin-top: 300px;
+    text-align: center;
+}
+img{
+    text-align: center;
+}
+body{
+    background-size: 100vmax;
+    background-repeat:calc(2);
+    background-image: url(./wel.jpg);
+    background-repeat: calc(3);
+}
+.btn{
+    text-align: center;
+    margin-top: 400px;
+    margin-left: 10px;
+}
